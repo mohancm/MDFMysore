@@ -1,0 +1,1 @@
+Sample Application Describing about Toast, Intents and Activity.
